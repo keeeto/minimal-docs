@@ -49,7 +49,7 @@
 ### Generic content
 
 * Allows reuse of documentation across the product
-* Eg ~"Configure Indirect Data Analysis"~ - "Configure the interface"
+* Eg ~~"Configure Indirect Data Analysis"~~ - "Configure the interface"
 
 ---
 ### Standardise language
