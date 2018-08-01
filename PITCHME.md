@@ -28,6 +28,43 @@
     * 40% text reduction; users experienced the docs as *more* information rich
 
 ![](images/a2600.jpg)
+---
+### Key aspects of minimalism
+
+* Make tasks action-focused
+* Use generic content
+* Standardise language
+* Avoid wordiness and jargon
+
+---
+### Action focused tasks
+
+* *Doing*, rather than *knowing*
+* Topics = generic, task-centred chunks
+    * Configuring, Enabling, Troubleshooting
+* Users find information quickly
+* Docs are easily updated
+
+---
+### Generic content
+
+* Allows reuse of documentation across the product
+* Eg ~"Configure Indirect Data Analysis"~ - "Configure the interface"
+
+---
+### Standardise language
+
+* Download X from Y; or Go to Y and download X
+* Pick and stick
+* Favour active words
+
+---
+### Avoid wordiness
+
+**"When you catch an adjective, kill it. No, I don't mean utterly, but kill most of them―then 
+the rest will be valuable. They weaken when they are close together. They give strength when they are wide apart."**
+
+- Mark Twain
 
 ---
 ### Where minimalism fails
