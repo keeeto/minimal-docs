@@ -17,6 +17,8 @@
 * Fewer words improves navigation
 * Simple language improves comprehension
 
+![](images/square.jpg)
+
 ---
 ### Where is the concept from?
 
