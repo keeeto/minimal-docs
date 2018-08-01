@@ -61,8 +61,8 @@
 ---
 ### Avoid wordiness
 
-**"When you catch an adjective, kill it. No, I don't mean utterly, but kill most of them―then 
-the rest will be valuable. They weaken when they are close together. They give strength when they are wide apart."**
+*"When you catch an adjective, kill it. No, I don't mean utterly, but kill most of them―then 
+the rest will be valuable. They weaken when they are close together. They give strength when they are wide apart."*
 
 - Mark Twain
 
