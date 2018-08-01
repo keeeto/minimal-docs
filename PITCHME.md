@@ -25,7 +25,7 @@
 * 1994 Sun Microsystems example
     * 40% text reduction; users experienced the docs as *more* information rich
 
-<img src="images/a2600.jpg" alt="Priorities" style="width: 150px;"/>
+<img src="images/a2600.jpg" alt="Priorities" style="width: 150px;" align='right'>
 
 ---
 ### Where minimalism fails
