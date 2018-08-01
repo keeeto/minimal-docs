@@ -2,4 +2,5 @@ layout : center-left
 logo : images/sticker-wtd-colors.png
 logo-position : top-right
 transition: none
+theme-override: css/PITCHME.css
 

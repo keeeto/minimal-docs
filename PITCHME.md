@@ -20,12 +20,16 @@
 ---
 ### Where is the concept from?
 
+@snap[west graphql-details]
 * Early documentation tended to be dense text
 * Often has the air of a research paper
 * 1994 Sun Microsystems example
     * 40% text reduction; users experienced the docs as *more* information rich
+@snapend
 
-<img src="images/a2600.jpg" alt="Priorities" style="width: 150px;" align='right'>
+@snap[east graphql-arch]
+![](images/a2600.jpg)
+@snapend
 
 ---
 ### Where minimalism fails
