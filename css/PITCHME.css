@@ -50,12 +50,3 @@
 .reveal h1 {
           text-shadow: none; }
 
-.graphql-details {
-  width: 70%;
-}
-
-.graphql-arch img {
-  width: 30%;
-  border: none !important;
-  box-shadow: none !important;
-}
