@@ -36,6 +36,8 @@
 * Standardise language
 * Avoid wordiness and jargon
 
+![](images/rothko.jpeg)
+
 ---
 ### Where minimalism fails
 
@@ -85,4 +87,6 @@ You might skip over some "obvious" steps or logical connections
 
 * It's never too late to start minimising
 * Break it down to small individual tasks
+
+![](images/mondrian.jpg)
 
