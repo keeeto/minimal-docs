@@ -6,8 +6,8 @@
 ### Minimal Documentation
 
 * What is it
-* Good/bad/ugly
-* How dow we become minimal
+* Good/bad
+* How do we become minimal
 
 ---
 ### What is minimalism?
@@ -35,36 +35,6 @@
 * Use generic content
 * Standardise language
 * Avoid wordiness and jargon
-
----
-### Action focused tasks
-
-* *Doing*, rather than *knowing*
-* Topics = generic, task-centred chunks
-    * Configuring, Enabling, Troubleshooting
-* Users find information quickly
-* Docs are easily updated
-
----
-### Generic content
-
-* Allows reuse of documentation across the product
-* Eg ~~"Configure Indirect Data Analysis"~~ - "Configure the interface"
-
----
-### Standardise language
-
-* Download X from Y; or Go to Y and download X
-* Pick and stick
-* Favour active words
-
----
-### Avoid wordiness
-
-*"When you catch an adjective, kill it. No, I don't mean utterly, but kill most of them―then 
-the rest will be valuable. They weaken when they are close together. They give strength when they are wide apart."*
-
-- Mark Twain
 
 ---
 ### Where minimalism fails
@@ -110,4 +80,9 @@ the rest will be valuable. They weaken when they are close together. They give s
 You might skip over some "obvious" steps or logical connections
 
 * Test on another person, make sure they understand what you have written
+---
+### Conclusion
+
+* It's never too late to start minimising
+* Break it down to small individual tasks
 
